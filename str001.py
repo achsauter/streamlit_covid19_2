@@ -11,7 +11,7 @@ import datetime as dt
 from datetime import *
 
 # Data Viz Pkgs
-#import matplotlib
+import matplotlib
 
 #matplotlib.use("Agg")
 import altair as alt
