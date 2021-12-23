@@ -11,9 +11,9 @@ import datetime as dt
 from datetime import *
 
 # Data Viz Pkgs
-import matplotlib
+#import matplotlib
 
-matplotlib.use("Agg")
+#matplotlib.use("Agg")
 import altair as alt
 #from bokeh.plotting import figure
 
