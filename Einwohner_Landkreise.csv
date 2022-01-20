@@ -1,0 +1,411 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+SK Kiel,"Kiel, Landeshauptstadt",246601,1002,Kreisfreie Stadt,"Kiel, Landeshauptstadt"
+SK Lübeck,"Lübeck, Hansestadt",215846,1003,Kreisfreie Stadt,"Lübeck, Hansestadt"
+SK Neumünster,"Neumünster, Stadt",79905,1004,Kreisfreie Stadt,"Neumünster, Stadt"
+LK Dithmarschen,Dithmarschen,133251,1051,Kreis,Dithmarschen
+LK Herzogtum Lauenburg,Herzogtum Lauenburg,199152,1053,Kreis,Herzogtum Lauenburg
+LK Nordfriesland,Nordfriesland,167147,1054,Kreis,Nordfriesland
+LK Ostholstein,Ostholstein,201487,1055,Kreis,Ostholstein
+LK Pinneberg,Pinneberg,317085,1056,Kreis,Pinneberg
+LK Plön,Plön,129353,1057,Kreis,Plön
+LK Rendsburg-Eckernförde,Rendsburg-Eckernförde,274765,1058,Kreis,Rendsburg-Eckernförde
+LK Schleswig-Flensburg,Schleswig-Flensburg,202647,1059,Kreis,Schleswig-Flensburg
+LK Segeberg,Segeberg,278007,1060,Kreis,Segeberg
+LK Steinburg,Steinburg,130706,1061,Kreis,Steinburg
+LK Stormarn,Stormarn,244989,1062,Kreis,Stormarn
+SK Hamburg,"Hamburg, Freie und Hansestadt",1852478,2000,Kreisfreie Stadt,"Hamburg, Freie und Hansestadt"
+SK Braunschweig,"Braunschweig, Stadt",248561,3101,Kreisfreie Stadt,"Braunschweig, Stadt"
+SK Salzgitter,"Salzgitter, Stadt",103866,3102,Kreisfreie Stadt,"Salzgitter, Stadt"
+SK Wolfsburg,"Wolfsburg, Stadt",123840,3103,Kreisfreie Stadt,"Wolfsburg, Stadt"
+LK Gifhorn,Gifhorn,177227,3151,Landkreis,Gifhorn
+LK Goslar,Goslar,134688,3153,Landkreis,Goslar
+LK Helmstedt,Helmstedt,91518,3154,Landkreis,Helmstedt
+LK Northeim,Northeim,131772,3155,Landkreis,Northeim
+LK Peine,Peine,135844,3157,Landkreis,Peine
+LK Wolfenbüttel,Wolfenbüttel,119361,3158,Landkreis,Wolfenbüttel
+LK Göttingen,Göttingen,323900,3159,Landkreis,Göttingen
+Region Hannover,Region Hannover,1155330,3241,Landkreis,Region Hannover
+LK Diepholz,Diepholz,218072,3251,Landkreis,Diepholz
+LK Hameln-Pyrmont,Hameln-Pyrmont,148580,3252,Landkreis,Hameln-Pyrmont
+LK Hildesheim,Hildesheim,275464,3254,Landkreis,Hildesheim
+LK Holzminden,Holzminden,70207,3255,Landkreis,Holzminden
+LK Nienburg (Weser),Nienburg (Weser),121645,3256,Landkreis,Nienburg (Weser)
+LK Schaumburg,Schaumburg,158406,3257,Landkreis,Schaumburg
+LK Celle,Celle,179386,3351,Landkreis,Celle
+LK Cuxhaven,Cuxhaven,198826,3352,Landkreis,Cuxhaven
+LK Harburg,Harburg,256016,3353,Landkreis,Harburg
+LK Lüchow-Dannenberg,Lüchow-Dannenberg,48503,3354,Landkreis,Lüchow-Dannenberg
+LK Lüneburg,Lüneburg,184235,3355,Landkreis,Lüneburg
+LK Osterholz,Osterholz,114640,3356,Landkreis,Osterholz
+LK Rotenburg (Wümme),Rotenburg (Wümme),164486,3357,Landkreis,Rotenburg (Wümme)
+LK Heidekreis,Heidekreis,140885,3358,Landkreis,Heidekreis
+LK Stade,Stade,205357,3359,Landkreis,Stade
+LK Uelzen,Uelzen,92566,3360,Landkreis,Uelzen
+LK Verden,Verden,137574,3361,Landkreis,Verden
+SK Delmenhorst,"Delmenhorst, Stadt",77503,3401,Kreisfreie Stadt,"Delmenhorst, Stadt"
+SK Emden,"Emden, Stadt",49874,3402,Kreisfreie Stadt,"Emden, Stadt"
+SK Oldenburg,"Oldenburg (Oldenburg), Stadt",169605,3403,Kreisfreie Stadt,"Oldenburg (Oldenburg), Stadt"
+SK Osnabrück,"Osnabrück, Stadt",164223,3404,Kreisfreie Stadt,"Osnabrück, Stadt"
+SK Wilhelmshaven,"Wilhelmshaven, Stadt",75189,3405,Kreisfreie Stadt,"Wilhelmshaven, Stadt"
+LK Ammerland,Ammerland,125643,3451,Landkreis,Ammerland
+LK Aurich,Aurich,190178,3452,Landkreis,Aurich
+LK Cloppenburg,Cloppenburg,172632,3453,Landkreis,Cloppenburg
+LK Emsland,Emsland,328930,3454,Landkreis,Emsland
+LK Friesland,Friesland,98971,3455,Landkreis,Friesland
+LK Grafschaft Bentheim,Grafschaft Bentheim,137891,3456,Landkreis,Grafschaft Bentheim
+LK Leer,Leer,171483,3457,Landkreis,Leer
+LK Oldenburg,Oldenburg,131467,3458,Landkreis,Oldenburg
+LK Osnabrück,Osnabrück,359471,3459,Landkreis,Osnabrück
+LK Vechta,Vechta,143698,3460,Landkreis,Vechta
+LK Wesermarsch,Wesermarsch,88524,3461,Landkreis,Wesermarsch
+LK Wittmund,Wittmund,57384,3462,Landkreis,Wittmund
+SK Bremen,"Bremen, Stadt",566573,4011,Kreisfreie Stadt,"Bremen, Stadt"
+SK Bremerhaven,"Bremerhaven, Stadt",113557,4012,Kreisfreie Stadt,"Bremerhaven, Stadt"
+SK Düsseldorf,"Düsseldorf, Stadt",620523,5111,Kreisfreie Stadt,"Düsseldorf, Stadt"
+SK Duisburg,"Duisburg, Stadt",495885,5112,Kreisfreie Stadt,"Duisburg, Stadt"
+SK Essen,"Essen, Stadt",582415,5113,Kreisfreie Stadt,"Essen, Stadt"
+SK Krefeld,"Krefeld, Stadt",226844,5114,Kreisfreie Stadt,"Krefeld, Stadt"
+SK Mönchengladbach,"Mönchengladbach, Stadt",259665,5116,Kreisfreie Stadt,"Mönchengladbach, Stadt"
+SK Mülheim a.d.Ruhr,"Mülheim an der Ruhr, Stadt",170921,5117,Kreisfreie Stadt,"Mülheim an der Ruhr, Stadt"
+SK Oberhausen,"Oberhausen, Stadt",209566,5119,Kreisfreie Stadt,"Oberhausen, Stadt"
+SK Remscheid,"Remscheid, Stadt",111516,5120,Kreisfreie Stadt,"Remscheid, Stadt"
+SK Solingen,"Solingen, Klingenstadt",159193,5122,Kreisfreie Stadt,"Solingen, Klingenstadt"
+SK Wuppertal,"Wuppertal, Stadt",355004,5124,Kreisfreie Stadt,"Wuppertal, Stadt"
+LK Kleve,Kleve,313586,5154,Kreis,Kleve
+LK Mettmann,Mettmann,484322,5158,Kreis,Mettmann
+LK Rhein-Kreis Neuss,Rhein-Kreis Neuss,452001,5162,Kreis,Rhein-Kreis Neuss
+LK Viersen,Viersen,298536,5166,Kreis,Viersen
+LK Wesel,Wesel,460113,5170,Kreis,Wesel
+SK Bonn,"Bonn, Stadt",330579,5314,Kreisfreie Stadt,"Bonn, Stadt"
+SK Köln,"Köln, Stadt",1083498,5315,Kreisfreie Stadt,"Köln, Stadt"
+SK Leverkusen,"Leverkusen, Stadt",163905,5316,Kreisfreie Stadt,"Leverkusen, Stadt"
+StädteRegion Aachen,Städteregion Aachen,556631,5334,Kreis,Städteregion Aachen
+LK Düren,Düren,265140,5358,Kreis,Düren
+LK Rhein-Erft-Kreis,Rhein-Erft-Kreis,469611,5362,Kreis,Rhein-Erft-Kreis
+LK Euskirchen,Euskirchen,194359,5366,Kreis,Euskirchen
+LK Heinsberg,Heinsberg,256458,5370,Kreis,Heinsberg
+LK Oberbergischer Kreis,Oberbergischer Kreis,271699,5374,Kreis,Oberbergischer Kreis
+LK Rheinisch-Bergischer Kreis,Rheinisch-Bergischer Kreis,283275,5378,Kreis,Rheinisch-Bergischer Kreis
+LK Rhein-Sieg-Kreis,Rhein-Sieg-Kreis,600375,5382,Kreis,Rhein-Sieg-Kreis
+SK Bottrop,"Bottrop, Stadt",117388,5512,Kreisfreie Stadt,"Bottrop, Stadt"
+SK Gelsenkirchen,"Gelsenkirchen, Stadt",259105,5513,Kreisfreie Stadt,"Gelsenkirchen, Stadt"
+SK Münster,"Münster, Stadt",316403,5515,Kreisfreie Stadt,"Münster, Stadt"
+LK Borken,Borken,371898,5554,Kreis,Borken
+LK Coesfeld,Coesfeld,220712,5558,Kreis,Coesfeld
+LK Recklinghausen,Recklinghausen,613599,5562,Kreis,Recklinghausen
+LK Steinfurt,Steinfurt,448197,5566,Kreis,Steinfurt
+LK Warendorf,Warendorf,277417,5570,Kreis,Warendorf
+SK Bielefeld,"Bielefeld, Stadt",333509,5711,Kreisfreie Stadt,"Bielefeld, Stadt"
+LK Gütersloh,Gütersloh,364818,5754,Kreis,Gütersloh
+LK Herford,Herford,250547,5758,Kreis,Herford
+LK Höxter,Höxter,139729,5762,Kreis,Höxter
+LK Lippe,Lippe,346970,5766,Kreis,Lippe
+LK Minden-Lübbecke,Minden-Lübbecke,310270,5770,Kreis,Minden-Lübbecke
+LK Paderborn,Paderborn,308335,5774,Kreis,Paderborn
+SK Bochum,"Bochum, Stadt",364454,5911,Kreisfreie Stadt,"Bochum, Stadt"
+SK Dortmund,"Dortmund, Stadt",587696,5913,Kreisfreie Stadt,"Dortmund, Stadt"
+SK Hagen,"Hagen, Stadt der FernUniversität",188687,5914,Kreisfreie Stadt,"Hagen, Stadt der FernUniversität"
+SK Hamm,"Hamm, Stadt",178967,5915,Kreisfreie Stadt,"Hamm, Stadt"
+SK Herne,"Herne, Stadt",156940,5916,Kreisfreie Stadt,"Herne, Stadt"
+LK Ennepe-Ruhr-Kreis,Ennepe-Ruhr-Kreis,323130,5954,Kreis,Ennepe-Ruhr-Kreis
+LK Hochsauerlandkreis,Hochsauerlandkreis,259030,5958,Kreis,Hochsauerlandkreis
+LK Märkischer Kreis,Märkischer Kreis,408662,5962,Kreis,Märkischer Kreis
+LK Olpe,Olpe,133362,5966,Kreis,Olpe
+LK Siegen-Wittgenstein,Siegen-Wittgenstein,275491,5970,Kreis,Siegen-Wittgenstein
+LK Soest,Soest,301016,5974,Kreis,Soest
+LK Unna,Unna,393618,5978,Kreis,Unna
+SK Darmstadt,"Darmstadt, Wissenschaftsstadt",159174,6411,Kreisfreie Stadt,"Darmstadt, Wissenschaftsstadt"
+SK Frankfurt am Main,"Frankfurt am Main, Stadt",764104,6412,Kreisfreie Stadt,"Frankfurt am Main, Stadt"
+SK Offenbach,"Offenbach am Main, Stadt",130892,6413,Kreisfreie Stadt,"Offenbach am Main, Stadt"
+SK Wiesbaden,"Wiesbaden, Landeshauptstadt",278609,6414,Kreisfreie Stadt,"Wiesbaden, Landeshauptstadt"
+LK Bergstraße,Bergstraße,271015,6431,Landkreis,Bergstraße
+LK Darmstadt-Dieburg,Darmstadt-Dieburg,297701,6432,Landkreis,Darmstadt-Dieburg
+LK Groß-Gerau,Groß-Gerau,275807,6433,Landkreis,Groß-Gerau
+LK Hochtaunuskreis,Hochtaunuskreis,237281,6434,Landkreis,Hochtaunuskreis
+LK Main-Kinzig-Kreis,Main-Kinzig-Kreis,421689,6435,Landkreis,Main-Kinzig-Kreis
+LK Main-Taunus-Kreis,Main-Taunus-Kreis,239264,6436,Landkreis,Main-Taunus-Kreis
+LK Odenwaldkreis,Odenwaldkreis,96754,6437,Landkreis,Odenwaldkreis
+LK Offenbach,Offenbach,356542,6438,Landkreis,Offenbach
+LK Rheingau-Taunus-Kreis,Rheingau-Taunus-Kreis,187433,6439,Landkreis,Rheingau-Taunus-Kreis
+LK Wetteraukreis,Wetteraukreis,310353,6440,Landkreis,Wetteraukreis
+LK Gießen,Gießen,271667,6531,Landkreis,Gießen
+LK Lahn-Dill-Kreis,Lahn-Dill-Kreis,253373,6532,Landkreis,Lahn-Dill-Kreis
+LK Limburg-Weilburg,Limburg-Weilburg,172291,6533,Landkreis,Limburg-Weilburg
+LK Marburg-Biedenkopf,Marburg-Biedenkopf,245903,6534,Landkreis,Marburg-Biedenkopf
+LK Vogelsbergkreis,Vogelsbergkreis,105506,6535,Landkreis,Vogelsbergkreis
+SK Kassel,"Kassel, documenta-Stadt",201048,6611,Kreisfreie Stadt,"Kassel, documenta-Stadt"
+LK Fulda,Fulda,223023,6631,Landkreis,Fulda
+LK Hersfeld-Rotenburg,Hersfeld-Rotenburg,120304,6632,Landkreis,Hersfeld-Rotenburg
+LK Kassel,Kassel,237007,6633,Landkreis,Kassel
+LK Schwalm-Eder-Kreis,Schwalm-Eder-Kreis,179840,6634,Landkreis,Schwalm-Eder-Kreis
+LK Waldeck-Frankenberg,Waldeck-Frankenberg,156528,6635,Landkreis,Waldeck-Frankenberg
+LK Werra-Meißner-Kreis,Werra-Meißner-Kreis,100046,6636,Landkreis,Werra-Meißner-Kreis
+SK Koblenz,"Koblenz, kreisfreie Stadt",113388,7111,Kreisfreie Stadt,"Koblenz, kreisfreie Stadt"
+LK Ahrweiler,Ahrweiler,130479,7131,Landkreis,Ahrweiler
+LK Altenkirchen,Altenkirchen (Westerwald),129087,7132,Landkreis,Altenkirchen (Westerwald)
+LK Bad Kreuznach,Bad Kreuznach,158746,7133,Landkreis,Bad Kreuznach
+LK Birkenfeld,Birkenfeld,80830,7134,Landkreis,Birkenfeld
+LK Cochem-Zell,Cochem-Zell,61578,7135,Landkreis,Cochem-Zell
+LK Mayen-Koblenz,Mayen-Koblenz,214786,7137,Landkreis,Mayen-Koblenz
+LK Neuwied,Neuwied,183131,7138,Landkreis,Neuwied
+LK Rhein-Hunsrück-Kreis,Rhein-Hunsrück-Kreis,103401,7140,Landkreis,Rhein-Hunsrück-Kreis
+LK Rhein-Lahn-Kreis,Rhein-Lahn-Kreis,122574,7141,Landkreis,Rhein-Lahn-Kreis
+LK Westerwaldkreis,Westerwaldkreis,202830,7143,Landkreis,Westerwaldkreis
+SK Trier,"Trier, kreisfreie Stadt",110674,7211,Kreisfreie Stadt,"Trier, kreisfreie Stadt"
+LK Bernkastel-Wittlich,Bernkastel-Wittlich,112685,7231,Landkreis,Bernkastel-Wittlich
+LK Bitburg-Prüm,Eifelkreis Bitburg-Prüm,100055,7232,Landkreis,Eifelkreis Bitburg-Prüm
+LK Vulkaneifel,Vulkaneifel,60491,7233,Landkreis,Vulkaneifel
+LK Trier-Saarburg,Trier-Saarburg,150533,7235,Landkreis,Trier-Saarburg
+SK Frankenthal,"Frankenthal (Pfalz), kreisfreie Stadt",48750,7311,Kreisfreie Stadt,"Frankenthal (Pfalz), kreisfreie Stadt"
+SK Kaiserslautern,"Kaiserslautern, kreisfreie Stadt",99662,7312,Kreisfreie Stadt,"Kaiserslautern, kreisfreie Stadt"
+SK Landau i.d.Pfalz,"Landau in der Pfalz, kreisfreie Stadt",46685,7313,Kreisfreie Stadt,"Landau in der Pfalz, kreisfreie Stadt"
+SK Ludwigshafen,"Ludwigshafen am Rhein, kreisfreie Stadt",172557,7314,Kreisfreie Stadt,"Ludwigshafen am Rhein, kreisfreie Stadt"
+SK Mainz,"Mainz, kreisfreie Stadt",217123,7315,Kreisfreie Stadt,"Mainz, kreisfreie Stadt"
+SK Neustadt a.d.Weinstraße,"Neustadt an der Weinstraße, kreisfreie Stadt",53306,7316,Kreisfreie Stadt,"Neustadt an der Weinstraße, kreisfreie Stadt"
+SK Pirmasens,"Pirmasens, kreisfreie Stadt",40176,7317,Kreisfreie Stadt,"Pirmasens, kreisfreie Stadt"
+SK Speyer,"Speyer, kreisfreie Stadt",50741,7318,Kreisfreie Stadt,"Speyer, kreisfreie Stadt"
+SK Worms,"Worms, kreisfreie Stadt",83459,7319,Kreisfreie Stadt,"Worms, kreisfreie Stadt"
+SK Zweibrücken,"Zweibrücken, kreisfreie Stadt",34001,7320,Kreisfreie Stadt,"Zweibrücken, kreisfreie Stadt"
+LK Alzey-Worms,Alzey-Worms,130715,7331,Landkreis,Alzey-Worms
+LK Bad Dürkheim,Bad Dürkheim,133004,7332,Landkreis,Bad Dürkheim
+LK Donnersbergkreis,Donnersbergkreis,75539,7333,Landkreis,Donnersbergkreis
+LK Germersheim,Germersheim,129006,7334,Landkreis,Germersheim
+LK Kaiserslautern,Kaiserslautern,106320,7335,Landkreis,Kaiserslautern
+LK Kusel,Kusel,70105,7336,Landkreis,Kusel
+LK Südliche Weinstraße,Südliche Weinstraße,110783,7337,Landkreis,Südliche Weinstraße
+LK Rhein-Pfalz-Kreis,Rhein-Pfalz-Kreis,154754,7338,Landkreis,Rhein-Pfalz-Kreis
+LK Mainz-Bingen,Mainz-Bingen,211525,7339,Landkreis,Mainz-Bingen
+LK Südwestpfalz,Südwestpfalz,94912,7340,Landkreis,Südwestpfalz
+SK Stuttgart,"Stuttgart, Stadtkreis",630305,8111,Stadtkreis,"Stuttgart, Stadtkreis"
+LK Böblingen,Böblingen,392898,8115,Landkreis,Böblingen
+LK Esslingen,Esslingen,533617,8116,Landkreis,Esslingen
+LK Göppingen,Göppingen,258781,8117,Landkreis,Göppingen
+LK Ludwigsburg,Ludwigsburg,544971,8118,Landkreis,Ludwigsburg
+LK Rems-Murr-Kreis,Rems-Murr-Kreis,427286,8119,Landkreis,Rems-Murr-Kreis
+SK Heilbronn,"Heilbronn, Stadtkreis",126458,8121,Stadtkreis,"Heilbronn, Stadtkreis"
+LK Heilbronn,Heilbronn,346363,8125,Landkreis,Heilbronn
+LK Hohenlohekreis,Hohenlohekreis,112765,8126,Landkreis,Hohenlohekreis
+LK Schwäbisch Hall,Schwäbisch Hall,197860,8127,Landkreis,Schwäbisch Hall
+LK Main-Tauber-Kreis,Main-Tauber-Kreis,132684,8128,Landkreis,Main-Tauber-Kreis
+LK Heidenheim,Heidenheim,132812,8135,Landkreis,Heidenheim
+LK Ostalbkreis,Ostalbkreis,314294,8136,Landkreis,Ostalbkreis
+SK Baden-Baden,"Baden-Baden, Stadtkreis",55449,8211,Stadtkreis,"Baden-Baden, Stadtkreis"
+SK Karlsruhe,"Karlsruhe, Stadtkreis",308436,8212,Stadtkreis,"Karlsruhe, Stadtkreis"
+LK Karlsruhe,Karlsruhe,446852,8215,Landkreis,Karlsruhe
+LK Rastatt,Rastatt,232091,8216,Landkreis,Rastatt
+SK Heidelberg,"Heidelberg, Stadtkreis",158741,8221,Stadtkreis,"Heidelberg, Stadtkreis"
+SK Mannheim,"Mannheim, Stadtkreis",309721,8222,Stadtkreis,"Mannheim, Stadtkreis"
+LK Neckar-Odenwald-Kreis,Neckar-Odenwald-Kreis,143797,8225,Landkreis,Neckar-Odenwald-Kreis
+LK Rhein-Neckar-Kreis,Rhein-Neckar-Kreis,548233,8226,Landkreis,Rhein-Neckar-Kreis
+SK Pforzheim,"Pforzheim, Stadtkreis",126016,8231,Stadtkreis,"Pforzheim, Stadtkreis"
+LK Calw,Calw,160149,8235,Landkreis,Calw
+LK Enzkreis,Enzkreis,199752,8236,Landkreis,Enzkreis
+LK Freudenstadt,Freudenstadt,118364,8237,Landkreis,Freudenstadt
+SK Freiburg i.Breisgau,"Freiburg im Breisgau, Stadtkreis",230940,8311,Stadtkreis,"Freiburg im Breisgau, Stadtkreis"
+LK Breisgau-Hochschwarzwald,Breisgau-Hochschwarzwald,264867,8315,Landkreis,Breisgau-Hochschwarzwald
+LK Emmendingen,Emmendingen,166862,8316,Landkreis,Emmendingen
+LK Ortenaukreis,Ortenaukreis,432580,8317,Landkreis,Ortenaukreis
+LK Rottweil,Rottweil,140166,8325,Landkreis,Rottweil
+LK Schwarzwald-Baar-Kreis,Schwarzwald-Baar-Kreis,212872,8326,Landkreis,Schwarzwald-Baar-Kreis
+LK Tuttlingen,Tuttlingen,141682,8327,Landkreis,Tuttlingen
+LK Konstanz,Konstanz,286876,8335,Landkreis,Konstanz
+LK Lörrach,Lörrach,228842,8336,Landkreis,Lörrach
+LK Waldshut,Waldshut,171237,8337,Landkreis,Waldshut
+LK Reutlingen,Reutlingen,287497,8415,Landkreis,Reutlingen
+LK Tübingen,Tübingen,228471,8416,Landkreis,Tübingen
+LK Zollernalbkreis,Zollernalbkreis,189862,8417,Landkreis,Zollernalbkreis
+SK Ulm,"Ulm, Stadtkreis",126405,8421,Stadtkreis,"Ulm, Stadtkreis"
+LK Alb-Donau-Kreis,Alb-Donau-Kreis,198204,8425,Landkreis,Alb-Donau-Kreis
+LK Biberach,Biberach,202250,8426,Landkreis,Biberach
+LK Bodenseekreis,Bodenseekreis,217901,8435,Landkreis,Bodenseekreis
+LK Ravensburg,Ravensburg,285888,8436,Landkreis,Ravensburg
+LK Sigmaringen,Sigmaringen,130946,8437,Landkreis,Sigmaringen
+SK Ingolstadt,Ingolstadt,136952,9161,Kreisfreie Stadt,Ingolstadt
+SK München,"München, Landeshauptstadt",1488202,9162,Kreisfreie Stadt,"München, Landeshauptstadt"
+SK Rosenheim,Rosenheim,63591,9163,Kreisfreie Stadt,Rosenheim
+LK Altötting,Altötting,111654,9171,Landkreis,Altötting
+LK Berchtesgadener Land,Berchtesgadener Land,106327,9172,Landkreis,Berchtesgadener Land
+LK Bad Tölz-Wolfratshausen,Bad Tölz-Wolfratshausen,128212,9173,Landkreis,Bad Tölz-Wolfratshausen
+LK Dachau,Dachau,155117,9174,Landkreis,Dachau
+LK Ebersberg,Ebersberg,144091,9175,Landkreis,Ebersberg
+LK Eichstätt,Eichstätt,133169,9176,Landkreis,Eichstätt
+LK Erding,Erding,138891,9177,Landkreis,Erding
+LK Freising,Freising,180313,9178,Landkreis,Freising
+LK Fürstenfeldbruck,Fürstenfeldbruck,218740,9179,Landkreis,Fürstenfeldbruck
+LK Garmisch-Partenkirchen,Garmisch-Partenkirchen,88279,9180,Landkreis,Garmisch-Partenkirchen
+LK Landsberg a.Lech,Landsberg am Lech,121019,9181,Landkreis,Landsberg am Lech
+LK Miesbach,Miesbach,100183,9182,Landkreis,Miesbach
+LK Mühldorf a.Inn,Mühldorf a.Inn,116483,9183,Landkreis,Mühldorf a.Inn
+LK München,München,349685,9184,Landkreis,München
+LK Neuburg-Schrobenhausen,Neuburg-Schrobenhausen,97730,9185,Landkreis,Neuburg-Schrobenhausen
+LK Pfaffenhofen a.d.Ilm,Pfaffenhofen a.d.Ilm,129128,9186,Landkreis,Pfaffenhofen a.d.Ilm
+LK Rosenheim,Rosenheim,261721,9187,Landkreis,Rosenheim
+LK Starnberg,Starnberg,136610,9188,Landkreis,Starnberg
+LK Traunstein,Traunstein,177485,9189,Landkreis,Traunstein
+LK Weilheim-Schongau,Weilheim-Schongau,136134,9190,Landkreis,Weilheim-Schongau
+SK Landshut,Landshut,73065,9261,Kreisfreie Stadt,Landshut
+SK Passau,Passau,52415,9262,Kreisfreie Stadt,Passau
+SK Straubing,Straubing,47612,9263,Kreisfreie Stadt,Straubing
+LK Deggendorf,Deggendorf,119479,9271,Landkreis,Deggendorf
+LK Freyung-Grafenau,Freyung-Grafenau,78355,9272,Landkreis,Freyung-Grafenau
+LK Kelheim,Kelheim,123390,9273,Landkreis,Kelheim
+LK Landshut,Landshut,161191,9274,Landkreis,Landshut
+LK Passau,Passau,193454,9275,Landkreis,Passau
+LK Regen,Regen,77313,9276,Landkreis,Regen
+LK Rottal-Inn,Rottal-Inn,121800,9277,Landkreis,Rottal-Inn
+LK Straubing-Bogen,Straubing-Bogen,101745,9278,Landkreis,Straubing-Bogen
+LK Dingolfing-Landau,Dingolfing-Landau,97244,9279,Landkreis,Dingolfing-Landau
+SK Amberg,Amberg,42052,9361,Kreisfreie Stadt,Amberg
+SK Regensburg,Regensburg,152270,9362,Kreisfreie Stadt,Regensburg
+SK Weiden i.d.OPf.,Weiden i.d.OPf.,42535,9363,Kreisfreie Stadt,Weiden i.d.OPf.
+LK Amberg-Sulzbach,Amberg-Sulzbach,102998,9371,Landkreis,Amberg-Sulzbach
+LK Cham,Cham,128094,9372,Landkreis,Cham
+LK Neumarkt i.d.OPf.,Neumarkt i.d.OPf.,135225,9373,Landkreis,Neumarkt i.d.OPf.
+LK Neustadt a.d.Waldnaab,Neustadt a.d.Waldnaab,94645,9374,Landkreis,Neustadt a.d.Waldnaab
+LK Regensburg,Regensburg,194275,9375,Landkreis,Regensburg
+LK Schwandorf,Schwandorf,148477,9376,Landkreis,Schwandorf
+LK Tirschenreuth,Tirschenreuth,71696,9377,Landkreis,Tirschenreuth
+SK Bamberg,Bamberg,76674,9461,Kreisfreie Stadt,Bamberg
+SK Bayreuth,Bayreuth,74048,9462,Kreisfreie Stadt,Bayreuth
+SK Coburg,Coburg,40842,9463,Kreisfreie Stadt,Coburg
+SK Hof,Hof,45173,9464,Kreisfreie Stadt,Hof
+LK Bamberg,Bamberg,147497,9471,Landkreis,Bamberg
+LK Bayreuth,Bayreuth,103679,9472,Landkreis,Bayreuth
+LK Coburg,Coburg,86571,9473,Landkreis,Coburg
+LK Forchheim,Forchheim,116600,9474,Landkreis,Forchheim
+LK Hof,Hof,94522,9475,Landkreis,Hof
+LK Kronach,Kronach,66355,9476,Landkreis,Kronach
+LK Kulmbach,Kulmbach,71428,9477,Landkreis,Kulmbach
+LK Lichtenfels,Lichtenfels,66722,9478,Landkreis,Lichtenfels
+LK Wunsiedel i.Fichtelgebirge,Wunsiedel i.Fichtelgebirge,71974,9479,Landkreis,Wunsiedel i.Fichtelgebirge
+SK Ansbach,Ansbach,41681,9561,Kreisfreie Stadt,Ansbach
+SK Erlangen,Erlangen,112385,9562,Kreisfreie Stadt,Erlangen
+SK Fürth,Fürth,128223,9563,Kreisfreie Stadt,Fürth
+SK Nürnberg,Nürnberg,515543,9564,Kreisfreie Stadt,Nürnberg
+SK Schwabach,Schwabach,41056,9565,Kreisfreie Stadt,Schwabach
+LK Ansbach,Ansbach,185316,9571,Landkreis,Ansbach
+LK Erlangen-Höchstadt,Erlangen-Höchstadt,138105,9572,Landkreis,Erlangen-Höchstadt
+LK Fürth,Fürth,118695,9573,Landkreis,Fürth
+LK Nürnberger Land,Nürnberger Land,171143,9574,Landkreis,Nürnberger Land
+LK Neustadt a.d.Aisch-Bad Windsheim,Neustadt a.d.Aisch-Bad Windsheim,101272,9575,Landkreis,Neustadt a.d.Aisch-Bad Windsheim
+LK Roth,Roth,127168,9576,Landkreis,Roth
+LK Weißenburg-Gunzenhausen,Weißenburg-Gunzenhausen,95117,9577,Landkreis,Weißenburg-Gunzenhausen
+SK Aschaffenburg,Aschaffenburg,70858,9661,Kreisfreie Stadt,Aschaffenburg
+SK Schweinfurt,Schweinfurt,53319,9662,Kreisfreie Stadt,Schweinfurt
+SK Würzburg,Würzburg,126954,9663,Kreisfreie Stadt,Würzburg
+LK Aschaffenburg,Aschaffenburg,174658,9671,Landkreis,Aschaffenburg
+LK Bad Kissingen,Bad Kissingen,103169,9672,Landkreis,Bad Kissingen
+LK Rhön-Grabfeld,Rhön-Grabfeld,79510,9673,Landkreis,Rhön-Grabfeld
+LK Haßberge,Haßberge,84275,9674,Landkreis,Haßberge
+LK Kitzingen,Kitzingen,91696,9675,Landkreis,Kitzingen
+LK Miltenberg,Miltenberg,128743,9676,Landkreis,Miltenberg
+LK Main-Spessart,Main-Spessart,125976,9677,Landkreis,Main-Spessart
+LK Schweinfurt,Schweinfurt,115652,9678,Landkreis,Schweinfurt
+LK Würzburg,Würzburg,162697,9679,Landkreis,Würzburg
+SK Augsburg,Augsburg,295830,9761,Kreisfreie Stadt,Augsburg
+SK Kaufbeuren,Kaufbeuren,44662,9762,Kreisfreie Stadt,Kaufbeuren
+SK Kempten,Kempten (Allgäu),68940,9763,Kreisfreie Stadt,Kempten (Allgäu)
+SK Memmingen,Memmingen,44360,9764,Kreisfreie Stadt,Memmingen
+LK Aichach-Friedberg,Aichach-Friedberg,135024,9771,Landkreis,Aichach-Friedberg
+LK Augsburg,Augsburg,255900,9772,Landkreis,Augsburg
+LK Dillingen a.d.Donau,Dillingen a.d.Donau,97172,9773,Landkreis,Dillingen a.d.Donau
+LK Günzburg,Günzburg,127342,9774,Landkreis,Günzburg
+LK Neu-Ulm,Neu-Ulm,175823,9775,Landkreis,Neu-Ulm
+LK Lindau,Lindau (Bodensee),82085,9776,Landkreis,Lindau (Bodensee)
+LK Ostallgäu,Ostallgäu,141907,9777,Landkreis,Ostallgäu
+LK Unterallgäu,Unterallgäu,146164,9778,Landkreis,Unterallgäu
+LK Donau-Ries,Donau-Ries,134324,9779,Landkreis,Donau-Ries
+LK Oberallgäu,Oberallgäu,156308,9780,Landkreis,Oberallgäu
+LK Stadtverband Saarbrücken,Regionalverband Saarbrücken,327502,10041,Regionalverband,Regionalverband Saarbrücken
+LK Merzig-Wadern,Merzig-Wadern,103471,10042,Landkreis,Merzig-Wadern
+LK Neunkirchen,Neunkirchen,131172,10043,Landkreis,Neunkirchen
+LK Saarlouis,Saarlouis,193732,10044,Landkreis,Saarlouis
+LK Saarpfalz-Kreis,Saarpfalz-Kreis,141656,10045,Landkreis,Saarpfalz-Kreis
+LK Sankt Wendel,St. Wendel,86458,10046,Landkreis,St. Wendel
+SK Berlin Mitte,"Berlin, Stadt",383360,11001,,
+SK Berlin Friedrichshain-Kreuzberg,,289787,11002,,
+SK Berlin Pankow,,410716,11003,,
+SK Berlin Charlottenburg-Wilmersdorf,,341392,11004,,
+SK Berlin Spandau,,245527,11005,,
+SK Berlin Steglitz-Zehlendorf,,308840,11006,,
+SK Berlin Tempelhof-Schöneberg,,349539,11007,,
+SK Berlin Neukölln,,327945,11008,,
+SK Berlin Treptow-Köpenick,,276165,11009,,
+SK Berlin Marzahn-Hellersdorf,,273731,11010,,
+SK Berlin Lichtenberg,,296837,11011,,
+SK Berlin Reinickendorf,,266123,11012,,
+SK Brandenburg a.d.Havel,"Brandenburg an der Havel, Stadt",72040,12051,Kreisfreie Stadt,"Brandenburg an der Havel, Stadt"
+SK Cottbus,"Cottbus, Stadt",98693,12052,Kreisfreie Stadt,"Cottbus, Stadt"
+SK Frankfurt (Oder),"Frankfurt (Oder), Stadt",57015,12053,Kreisfreie Stadt,"Frankfurt (Oder), Stadt"
+SK Potsdam,"Potsdam, Stadt",182112,12054,Kreisfreie Stadt,"Potsdam, Stadt"
+LK Barnim,Barnim,187343,12060,Landkreis,Barnim
+LK Dahme-Spreewald,Dahme-Spreewald,173316,12061,Landkreis,Dahme-Spreewald
+LK Elbe-Elster,Elbe-Elster,101085,12062,Landkreis,Elbe-Elster
+LK Havelland,Havelland,164693,12063,Landkreis,Havelland
+LK Märkisch-Oderland,Märkisch-Oderland,197195,12064,Landkreis,Märkisch-Oderland
+LK Oberhavel,Oberhavel,214234,12065,Landkreis,Oberhavel
+LK Oberspreewald-Lausitz,Oberspreewald-Lausitz,108396,12066,Landkreis,Oberspreewald-Lausitz
+LK Oder-Spree,Oder-Spree,179276,12067,Landkreis,Oder-Spree
+LK Ostprignitz-Ruppin,Ostprignitz-Ruppin,98808,12068,Landkreis,Ostprignitz-Ruppin
+LK Potsdam-Mittelmark,Potsdam-Mittelmark,217954,12069,Landkreis,Potsdam-Mittelmark
+LK Prignitz,Prignitz,76096,12070,Landkreis,Prignitz
+LK Spree-Neiße,Spree-Neiße,113011,12071,Landkreis,Spree-Neiße
+LK Teltow-Fläming,Teltow-Fläming,171554,12072,Landkreis,Teltow-Fläming
+LK Uckermark,Uckermark,118250,12073,Landkreis,Uckermark
+SK Rostock,Rostock,209061,13003,Kreisfreie Stadt,Rostock
+SK Schwerin,Schwerin,95609,13004,Kreisfreie Stadt,Schwerin
+LK Mecklenburgische Seenplatte,Mecklenburgische Seenplatte,258057,13071,Landkreis,Mecklenburgische Seenplatte
+LK Rostock,Landkreis Rostock,217072,13072,Landkreis,Landkreis Rostock
+LK Vorpommern-Rügen,Vorpommern-Rügen,225383,13073,Landkreis,Vorpommern-Rügen
+LK Nordwestmecklenburg,Nordwestmecklenburg,157975,13074,Landkreis,Nordwestmecklenburg
+LK Vorpommern-Greifswald,Vorpommern-Greifswald,235773,13075,Landkreis,Vorpommern-Greifswald
+LK Ludwigslust-Parchim,Ludwigslust-Parchim,211844,13076,Landkreis,Ludwigslust-Parchim
+SK Chemnitz,"Chemnitz, Stadt",244401,14511,Kreisfreie Stadt,"Chemnitz, Stadt"
+LK Erzgebirgskreis,Erzgebirgskreis,331917,14521,Landkreis,Erzgebirgskreis
+LK Mittelsachsen,Mittelsachsen,301474,14522,Landkreis,Mittelsachsen
+LK Vogtlandkreis,Vogtlandkreis,223905,14523,Landkreis,Vogtlandkreis
+LK Zwickau,Zwickau,312033,14524,Landkreis,Zwickau
+SK Dresden,"Dresden, Stadt",556227,14612,Kreisfreie Stadt,"Dresden, Stadt"
+LK Bautzen,Bautzen,298010,14625,Landkreis,Bautzen
+LK Görlitz,Görlitz,250558,14626,Landkreis,Görlitz
+LK Meißen,Meißen,240371,14627,Landkreis,Meißen
+LK Sächsische Schweiz-Osterzgebirge,Sächsische Schweiz-Osterzgebirge,244722,14628,Landkreis,Sächsische Schweiz-Osterzgebirge
+SK Leipzig,"Leipzig, Stadt",597493,14713,Kreisfreie Stadt,"Leipzig, Stadt"
+LK Leipzig,Leipzig,258386,14729,Landkreis,Leipzig
+LK Nordsachsen,Nordsachsen,197444,14730,Landkreis,Nordsachsen
+SK Dessau-Roßlau,"Dessau-Roßlau, Stadt",79354,15001,Kreisfreie Stadt,"Dessau-Roßlau, Stadt"
+SK Halle,"Halle (Saale), Stadt",237865,15002,Kreisfreie Stadt,"Halle (Saale), Stadt"
+SK Magdeburg,"Magdeburg, Landeshauptstadt",235775,15003,Kreisfreie Stadt,"Magdeburg, Landeshauptstadt"
+LK Altmarkkreis Salzwedel,Altmarkkreis Salzwedel,82687,15081,Landkreis,Altmarkkreis Salzwedel
+LK Anhalt-Bitterfeld,Anhalt-Bitterfeld,157217,15082,Landkreis,Anhalt-Bitterfeld
+LK Börde,Börde,170567,15083,Landkreis,Börde
+LK Burgenlandkreis,Burgenlandkreis,177590,15084,Landkreis,Burgenlandkreis
+LK Harz,Harz,210975,15085,Landkreis,Harz
+LK Jerichower Land,Jerichower Land,89403,15086,Landkreis,Jerichower Land
+LK Mansfeld-Südharz,Mansfeld-Südharz,133690,15087,Landkreis,Mansfeld-Südharz
+LK Saalekreis,Saalekreis,183434,15088,Landkreis,Saalekreis
+LK Salzlandkreis,Salzlandkreis,187457,15089,Landkreis,Salzlandkreis
+LK Stendal,Stendal,110485,15090,Landkreis,Stendal
+LK Wittenberg,Wittenberg,124185,15091,Landkreis,Wittenberg
+SK Erfurt,"Erfurt, Stadt",213692,16051,Kreisfreie Stadt,"Erfurt, Stadt"
+SK Gera,"Gera, Stadt",92126,16052,Kreisfreie Stadt,"Gera, Stadt"
+SK Jena,"Jena, Stadt",110731,16053,Kreisfreie Stadt,"Jena, Stadt"
+SK Suhl,"Suhl, Stadt",36395,16054,Kreisfreie Stadt,"Suhl, Stadt"
+SK Weimar,"Weimar, Stadt",65098,16055,Kreisfreie Stadt,"Weimar, Stadt"
+LK Eichsfeld,Eichsfeld,99463,16061,Landkreis,Eichsfeld
+LK Nordhausen,Nordhausen,82456,16062,Landkreis,Nordhausen
+LK Wartburgkreis,Wartburgkreis,159937,16063,Landkreis,Wartburgkreis
+LK Unstrut-Hainich-Kreis,Unstrut-Hainich-Kreis,101698,16064,Landkreis,Unstrut-Hainich-Kreis
+LK Kyffhäuserkreis,Kyffhäuserkreis,73522,16065,Landkreis,Kyffhäuserkreis
+LK Schmalkalden-Meiningen,Schmalkalden-Meiningen,124241,16066,Landkreis,Schmalkalden-Meiningen
+LK Gotha,Gotha,134563,16067,Landkreis,Gotha
+LK Sömmerda,Sömmerda,69107,16068,Landkreis,Sömmerda
+LK Hildburghausen,Hildburghausen,62656,16069,Landkreis,Hildburghausen
+LK Ilm-Kreis,Ilm-Kreis,105606,16070,Landkreis,Ilm-Kreis
+LK Weimarer Land,Weimarer Land,82291,16071,Landkreis,Weimarer Land
+LK Sonneberg,Sonneberg,57044,16072,Landkreis,Sonneberg
+LK Saalfeld-Rudolstadt,Saalfeld-Rudolstadt,102139,16073,Landkreis,Saalfeld-Rudolstadt
+LK Saale-Holzland-Kreis,Saale-Holzland-Kreis,82816,16074,Landkreis,Saale-Holzland-Kreis
+LK Saale-Orla-Kreis,Saale-Orla-Kreis,79632,16075,Landkreis,Saale-Orla-Kreis
+LK Greiz,Greiz,96668,16076,Landkreis,Greiz
+LK Altenburger Land,Altenburger Land,88356,16077,Landkreis,Altenburger Land

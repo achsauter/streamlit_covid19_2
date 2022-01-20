@@ -50,14 +50,10 @@ def load_fallzahlen(df, str_bundesland, bork):  #bundesland oder landkreis
     if str_bundesland != "all":
         if bork == "kreis":
             str_kreis = get_id_from_kreis(str_bundesland)
-            #st.success(str_kreis)
             df_return = df_return[df_return['IdLandkreis'] == str_kreis]
             df_return.drop('IdLandkreis', axis=1, inplace=True)
-            #st.dataframe(df_return)
         else:
             id_bl = str(int(get_id_from_bundesland(str_bundesland)))
-            #st.success(id_bl)
-            #st.success(len(id_bl))
             if len(id_bl) == 1:
                 df_return["IdLandkreis"]= df_return["IdLandkreis"].astype(str)
                 df_return = df_return[df_return['IdLandkreis'].str.len() == 4]
@@ -66,12 +62,10 @@ def load_fallzahlen(df, str_bundesland, bork):  #bundesland oder landkreis
                 df_return["IdLandkreis"]= df_return["IdLandkreis"].astype(str)
                 df_return = df_return[df_return['IdLandkreis'].str.len() == 5]
                 df_return = df_return[df_return['IdLandkreis'].str[:2] == id_bl]
-            #st.dataframe(df_return)
         selected_ort = str_bundesland
     else:
         selected_ort = "Deutschland"
         df_return.drop('IdLandkreis', axis=1, inplace=True)
-        #st.success(str_bundesland)
 
     df_return = df_return.groupby(by=["Meldedatum"]).sum()
     df_return.reset_index(inplace=True)
@@ -79,14 +73,10 @@ def load_fallzahlen(df, str_bundesland, bork):  #bundesland oder landkreis
     df_return['Total_Faelle'] = ''
     df_return['Zuwachs'] = ''
     df_return['Todesfall_Sieben_Tage'] = 0
-    #st.write(df_return.head())
     if bork == "kreis":
         anz_einw = get_ew_kreis(str_bundesland)
     else:
         anz_einw = get_ew_bundesland(str_bundesland)
-    #st.success(anz_einw)
-    #st.dataframe(df_return)
-    #st.success('Spalte' + str(spalte))
     Gesamt = 0
     for i in range(len(df_return)):
         Anzahl = df_return.iloc[i, spalte]
@@ -161,59 +151,50 @@ def get_id_from_bundesland(str_name):
     for i in range(len(df_names)):
         if str_name == df_names.iloc[i,0]:
             found = i
-    ret_value = df_ew.iloc[92,found+2]
+    ret_value = df_ew.iloc[91,found+2]
     return ret_value
 
 def get_ew_bundesland(str_name):
-    #print(str_name)
     df_ew = pd.read_csv('EW2020.csv')
     if str_name == "all":
         ret_value=0
         for i in range(2,18):
-            ret_value = ret_value + df_ew.iloc[91,i]
+            ret_value = ret_value + df_ew.iloc[90,i]
     else:   
         df_names = get_bundeslaender()  
         for i in range(len(df_names)):
             if str_name == df_names.iloc[i,0]:
                 found = i
-        ret_value = df_ew.iloc[91,found+2]
-    #print(found)
+        ret_value = df_ew.iloc[90,found+2]
     return ret_value
 
 def get_landkreise(str_bundesland):
-    df_ew = pd.read_excel('Einwohner_Landkreise.xlsx')
+    df_ew = pd.read_csv('Einwohner_Landkreise.csv')
     df_li = pd.DataFrame(columns =[0, "IdLandkreis"])
-    #st.success(len(df_ew))
     for i in range(len(df_ew)):
         df_li = pd.concat([pd.DataFrame([[df_ew.iloc[i,0],df_ew.iloc[i,3]]], columns=df_li.columns), df_li], ignore_index=True)
-    #st.dataframe(df_li)
     id_bl = str(int(get_id_from_bundesland(str_bundesland)))
     if len(id_bl) == 1:
-                #st.write(df_return.describe())
         df_li["IdLandkreis"]= df_li["IdLandkreis"].astype(str)
-                #st.write(df_return.describe())
         df_li = df_li[df_li['IdLandkreis'].str.len() == 4]
-                #st.write(df_return.describe())
         df_li = df_li[df_li['IdLandkreis'].str[:1] == id_bl]
-                #st.write(df_return.describe())
     else:  
         df_li["IdLandkreis"]= df_li["IdLandkreis"].astype(str)
         df_li = df_li[df_li['IdLandkreis'].str.len() == 5]
         df_li = df_li[df_li['IdLandkreis'].str[:2] == id_bl]  
     df_li.drop('IdLandkreis', axis=1, inplace=True)
     
-    #st.dataframe(df_li) 
     return df_li 
 
 def get_ew_kreis(str_name):
-    df_ew = pd.read_excel('Einwohner_Landkreise.xlsx')
+    df_ew = pd.read_csv('Einwohner_Landkreise.csv')
     for i in range(len(df_ew)):
         if df_ew.iloc[i,0] == str_name:
             ret_value = df_ew.iloc[i,2] 
     return ret_value
 
 def get_id_from_kreis(str_name):
-    df_ew = pd.read_excel('Einwohner_Landkreise.xlsx')
+    df_ew = pd.read_csv('Einwohner_Landkreise.csv')
     for i in range(len(df_ew)):
         if df_ew.iloc[i,0] == str_name:
             ret_value = df_ew.iloc[i,3] 
@@ -225,7 +206,6 @@ def get_bundeslaender():
     df_ew = pd.read_csv('EW2020.csv')
     my_list = df_ew.columns.values.tolist()
     df_names = pd.DataFrame(my_list)
-    #st.dataframe(df_names) 
     df_names.drop(0,inplace=True)
     df_names.drop(1,inplace=True)
     return df_names
@@ -293,7 +273,7 @@ def main():
             df = pd.DataFrame(data)
             if choice_bundesland == "all":
                 df_names = get_bundeslaender()
-                
+                st.dataframe(df_names)
                 for i in range(len(df_names)):
                     temp_list = get_landkreise(df_names.iloc[i,0])
                     if i==0:
@@ -303,23 +283,15 @@ def main():
             else:
                 my_list = get_landkreise(choice_bundesland)    
 
-            #st.dataframe(my_list)
-            #st.success(my_list.iloc[12,0])
             df_liste2 = pd.DataFrame()
             for i in range(len(my_list)):
-                #st.write(my_list.iloc[i,0])
                 einw = get_ew_kreis(my_list.iloc[i,0])
                 temp_id = get_id_from_kreis(my_list.iloc[i,0])
-                #st.write(temp_id)
                 df_new = df[df['IdLandkreis'] == temp_id]
-                #st.dataframe(df_new)
                 df_return = df_new.groupby(by=["Meldedatum"]).sum()
-                #st.dataframe(df_return)
                 erg = c19_fkt.get_sieben_tage_inzidenz_last(df_return, einw, 1)
                 df_liste2.at[i, 'Landkreis'] = my_list.iloc[i,0]
-                #format(df_result.iloc[len(df_result)-1,5],'>15,.0f').replace(",",".")+ '  \n '+
                 df_liste2.at[i, 'Inzidenz'] = format(erg,'>15,.1f').replace(",",".")
-                #st.write(erg)
             st.dataframe(df_liste2)
 
 
@@ -422,8 +394,6 @@ def main():
             df_countries.iat[i,1] = format(summe/df_neu.iloc[len(df_neu)-1,48] * 100000,'>15,.1f').replace(",",".")    
             columns = df_neu.columns
             column_index = columns.get_loc('hosp_patients_per_million')
-            #st.success(column_index)
-            #st.success(len(df_neu))
             df_countries.iat[i,2] = df_neu.iloc[len(df_neu)-4,column_index]
         df_countries.sort_values('Inzidenz', inplace=True, ascending=False)    
         df_countries.reset_index(drop=True, inplace=True) 
