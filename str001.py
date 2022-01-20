@@ -225,6 +225,7 @@ def get_bundeslaender():
     df_ew = pd.read_csv('EW2020.csv')
     my_list = df_ew.columns.values.tolist()
     df_names = pd.DataFrame(my_list)
+    #st.dataframe(df_names) 
     df_names.drop(0,inplace=True)
     df_names.drop(1,inplace=True)
     return df_names
