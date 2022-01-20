@@ -23,6 +23,12 @@ import altair as alt
 import c19_functions as c19_fkt
 import load_data as ld
 
+st.set_page_config(
+    page_title = "Covid-19 cases",
+    layout = "wide",
+    initial_sidebar_state="expanded",
+)
+
 @st.cache
 def load_all():
     df = pd.read_csv("RKI_COVID19.csv")
