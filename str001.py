@@ -156,7 +156,7 @@ def show_chart(df_show):
         
 def get_id_from_bundesland(str_name):
     #print(str_name)
-    df_ew = pd.read_excel('EW2020.xlsx')
+    df_ew = pd.read_csv('EW2020.csv')
     df_names = get_bundeslaender()  
     for i in range(len(df_names)):
         if str_name == df_names.iloc[i,0]:
@@ -166,7 +166,7 @@ def get_id_from_bundesland(str_name):
 
 def get_ew_bundesland(str_name):
     #print(str_name)
-    df_ew = pd.read_excel('EW2020.xlsx')
+    df_ew = pd.read_csv('EW2020.csv')
     if str_name == "all":
         ret_value=0
         for i in range(2,18):
