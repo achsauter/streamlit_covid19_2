@@ -222,7 +222,7 @@ def get_id_from_kreis(str_name):
 
 
 def get_bundeslaender():
-    df_ew = pd.read_excel('EW2020.xlsx')
+    df_ew = pd.read_csv('EW2020.csv')
     my_list = df_ew.columns.values.tolist()
     df_names = pd.DataFrame(my_list)
     df_names.drop(0,inplace=True)
